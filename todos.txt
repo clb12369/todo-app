@@ -1,7 +1,8 @@
 Fix the car
 Buy a camera
-Make soup
-Make pizza
-Clean the code
-Clean the house
+Slice cheezeMake pizza
+Buy the painting
+Buy plants
 Master Python
+My newest todo
+Last todo
