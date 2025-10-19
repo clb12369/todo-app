@@ -4,5 +4,3 @@ Slice cheezeMake pizza
 Buy the painting
 Buy plants
 Master Python
-My newest todo
-Last todo
